@@ -1,8 +1,8 @@
 # Dev30
 
 
-It is craeded by sata Ranjan Behera 
-At babal pur ,jajpur 
+It is created by satya Ranjan Behera 
+At babalpur ,jajpur 
 
 
 
